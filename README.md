@@ -9,7 +9,7 @@ they're requested.
 
 [![Build Status](https://img.shields.io/travis/athaeryn/farfetched.svg?style=flat-square)](https://travis-ci.org/athaeryn/farfetched)
 [![npm](https://img.shields.io/npm/v/farfetched.svg?style=flat-square)](https://www.npmjs.com/package/farfetched)
-
+  
 
 ## Installation
 
